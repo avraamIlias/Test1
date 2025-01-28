@@ -3,7 +3,7 @@
 ## Aufgabe 1----
 ### a----
 retail_data <- read.csv("retail_data.csv")
-# oder über reader/base
+# oder über reader/base 
 
 ### b----
 head(retail_data, 5)
